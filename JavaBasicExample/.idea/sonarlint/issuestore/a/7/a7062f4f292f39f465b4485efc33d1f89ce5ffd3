@@ -1,0 +1,11 @@
+
+V
+squid:S106;"9Replace this use of System.out or System.err by a logger.(ùàèü8“Ü§œ¶-
+[
+squid:S106C"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ8ëÍ­œ¶-
+asquid:S25836"CChange this condition so that it does not always evaluate to "true"(ŞĞı“8“Ü§œ¶-
+fsquid:S25831"CChange this condition so that it does not always evaluate to "true"(‘¸‘Üşÿÿÿÿ8¯Òœ¶-
+[
+squid:S1067"9Replace this use of System.out or System.err by a logger.(†Õ¹ªúÿÿÿÿ8îÅ¤œ¶-
+Msquid:S00108?")Either remove or fill this block of code.(¬Àáªøÿÿÿÿ8ÎÒªœ¶-
+Ksquid:S11251"(Remove the literal "true" boolean value.(‘¸‘Üşÿÿÿÿ8¯Òœ¶-
