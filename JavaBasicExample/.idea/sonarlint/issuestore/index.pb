@@ -27,3 +27,21 @@ C
 src/common/Cat.java,0\f\0fa3b00167720502fedbc627ecfb8afade351899
 U
 %src/collection/AnimalCatGarfield.java,5\4\54b1dda0f3b38876e6ecc380df8b24e44ea74322
+Z
+*src/collection/ComparableSearchResult.java,e\a\ea8b4eef0c5cf5faed561f4d39d6fc923550c8c1
+Z
+*src/collection/ComparatorSearchResult.java,3\6\367d09ab32342669043a2b9e959518701086b29c
+P
+ src/collection/EqualsObject.java,2\a\2ad233ace52db9da4c91b1d1cc247f1a978ffa99
+S
+#src/collection/SubListFailFast.java,a\3\a35abecc16c2af5b4a53e123fcf4f91e7d2409f6
+U
+%src/collection/ArrayListFailFast.java,a\0\a0bffc59178706c0da9ab017296b845056f931ec
+W
+'src/concurrent/SynchronizedExample.java,c\f\cf8d6fca241fd399d3a9615f6a7f23fa654fe9c8
+U
+%src/concurrent/VolatileNotAtomic.java,4\c\4cd0fe376a6947f190f7af1e84ef514df102d04e
+T
+$src/concurrent/SemaphoreExample.java,5\e\5eb64353521e99b2c245a55a9c8f3285f352493e
+V
+&src/concurrent/CountDownLatchTest.java,f\9\f9945f049397bc7a7b0cf6d07898471792a1de70

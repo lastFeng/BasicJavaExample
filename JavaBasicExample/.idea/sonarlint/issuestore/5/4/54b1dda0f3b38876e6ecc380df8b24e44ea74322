@@ -1,14 +1,14 @@
 
-Rsquid:S1481H"/Remove this unused "catExtends" local variable.(ú³ƒèÿÿÿÿÿ8ÑÂÚ¥¶-
-nsquid:CommentedOutCodeLine1"<This block of commented-out lines of code should be removed.(àµú¦ùÿÿÿÿ8ºÜÂ¥¶-
-isquid:CommentedOutCodeLine:"<This block of commented-out lines of code should be removed.(ğŞ¾8óíÂ¥¶-
-isquid:CommentedOutCodeLineL"<This block of commented-out lines of code should be removed.(Â¯»ÿ8–Ãá¥¶-
+Nsquid:S1481I"0Remove this unused "catExtends1" local variable.(ş½Í8ÑÂÚ¥¶-
+isquid:CommentedOutCodeLineC"<This block of commented-out lines of code should be removed.(©†²±8ÃöÖ¥¶-
 V
 squid:S106N"9Replace this use of System.out or System.err by a logger.(Ğçì¯8Ì÷Ş¥¶-
-Zsquid:S14813"7Remove this unused "superCatFromAnimal" local variable.(•¯Âüÿÿÿÿ8°ë¥¶-
-Nsquid:S1481I"0Remove this unused "catExtends1" local variable.(ş½Í8ÑÂÚ¥¶-
-]squid:S1854I"?Remove this useless assignment to local variable "catExtends1".(ş½Í8ÑÂÚ¥¶-
 isquid:S18543"FRemove this useless assignment to local variable "superCatFromAnimal".(•¯Âüÿÿÿÿ8°ë¥¶-
+isquid:CommentedOutCodeLine:"<This block of commented-out lines of code should be removed.(ğŞ¾8óíÂ¥¶-
 asquid:S1854H">Remove this useless assignment to local variable "catExtends".(ú³ƒèÿÿÿÿÿ8ÑÂÚ¥¶-
+Zsquid:S14813"7Remove this unused "superCatFromAnimal" local variable.(•¯Âüÿÿÿÿ8°ë¥¶-
+]squid:S1854I"?Remove this useless assignment to local variable "catExtends1".(ş½Í8ÑÂÚ¥¶-
+nsquid:CommentedOutCodeLine1"<This block of commented-out lines of code should be removed.(àµú¦ùÿÿÿÿ8ºÜÂ¥¶-
+isquid:CommentedOutCodeLineL"<This block of commented-out lines of code should be removed.(Â¯»ÿ8–Ãá¥¶-
+Rsquid:S1481H"/Remove this unused "catExtends" local variable.(ú³ƒèÿÿÿÿÿ8ÑÂÚ¥¶-
 isquid:CommentedOutCodeLine>"<This block of commented-out lines of code should be removed.(ÎòÿÊ8Ç‹È¥¶-
-isquid:CommentedOutCodeLineC"<This block of commented-out lines of code should be removed.(©†²±8ÃöÖ¥¶-

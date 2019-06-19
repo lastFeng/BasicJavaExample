@@ -1,6 +1,6 @@
 
-dsquid:S00112$"FDefine and throw a dedicated exception instead of using a generic one.(‰Æáe8ªŠ¸¢¶-
+[squid:S1854("8Remove this useless assignment to local variable "temp".(¦¡çıÿÿÿÿ8¢£½¢¶-
+hsquid:CommentedOutCodeLine)"<This block of commented-out lines of code should be removed.(í¼œ'8¢£½¢¶-
 U
 squid:S106"9Replace this use of System.out or System.err by a logger.(øË¹8â¹¢¶-
-hsquid:CommentedOutCodeLine)"<This block of commented-out lines of code should be removed.(í¼œ'8¢£½¢¶-
-[squid:S1854("8Remove this useless assignment to local variable "temp".(¦¡çıÿÿÿÿ8¢£½¢¶-
+dsquid:S00112$"FDefine and throw a dedicated exception instead of using a generic one.(‰Æáe8ªŠ¸¢¶-

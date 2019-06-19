@@ -1,0 +1,6 @@
+
+nsquid:S12068"PThis class overrides "equals()" and should therefore also override "hashCode()".(’ÜÇÞ8çþåÎ¶-
+isquid:CommentedOutCodeLineQ"<This block of commented-out lines of code should be removed.(Ý ’ì8çþåÎ¶-
+[
+squid:S106_"9Replace this use of System.out or System.err by a logger.(äšÌ…üÿÿÿÿ8€ÜéÎ¶-
+dsquid:S1126G"AReplace this if-then-else statement by a single return statement.( œ˜Öüÿÿÿÿ8Ë´ÙÎ¶-
