@@ -65,6 +65,6 @@ public class ArrayListFailFast {
 			copy.add(System.nanoTime());
 		}
 		long end = System.nanoTime();
-		System.out.println((start - end) + "ns");
+		System.out.println((end - start) + "ns");
 	}
 }
