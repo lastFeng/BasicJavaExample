@@ -2,10 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e3390a2-0aca-4efc-90e7-9118c12c7cd6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/concurrent/CountDownLatchTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concurrent/SemaphoreExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concurrent/SynchronizedExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concurrent/VolatileNotAtomic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reference/SoftReferenceHouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/threadlocalproblem/DirtyDataInThreadLocal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/threadlocalproblem/OutOfMemoryThreadLocal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/threadlocalproblem/SolveThreadLocal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/threadpool/CsGameByThreadLocal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/threadpool/InitValueInThreadLocal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/threadpool/UserRejectHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/threadpool/UserThreadFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/threadpool/UserThreadPool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasicExample/concurrent/CountDownLatchTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBasicExample/concurrent/CountDownLatchTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasicExample/concurrent/TransLateThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBasicExample/concurrent/TransLateThread.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,91 +24,97 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/collection/SubListFailFast.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="546">
-              <caret line="40" column="75" selection-start-line="40" selection-start-column="75" selection-end-line="40" selection-end-column="75" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/collection/ArrayListFailFast.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="678">
-              <caret line="67" column="40" selection-start-line="67" selection-start-column="40" selection-end-line="67" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/concurrent/SynchronizedExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="28" column="36" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/concurrent/VolatileNotAtomic.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="591">
-              <caret line="46" selection-start-line="46" selection-end-line="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/concurrent/CountDownLatchTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="213">
+            <state relative-caret-position="-165">
               <caret line="32" column="45" selection-start-line="32" selection-start-column="45" selection-end-line="32" selection-end-column="45" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/concurrent/SemaphoreExample.java">
+        <entry file="file://$PROJECT_DIR$/src/threadpool/UserThreadFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="35" column="58" selection-start-line="35" selection-start-column="58" selection-end-line="35" selection-end-column="58" />
+            <state relative-caret-position="402">
+              <caret line="103" column="56" selection-start-line="103" selection-start-column="56" selection-end-line="103" selection-end-column="56" />
+              <folding>
+                <element signature="e#1108#1109#0" expanded="true" />
+                <element signature="e#1142#1143#0" expanded="true" />
+                <element signature="e#1541#1542#0" expanded="true" />
+                <element signature="e#1568#1569#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/common/Animal.java">
+        <entry file="file://$PROJECT_DIR$/src/reference/SoftReferenceHouse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="444">
+              <caret line="49" selection-start-line="49" selection-end-line="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/threadpool/CsGameByThreadLocal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="51" column="101" selection-start-line="51" selection-start-column="101" selection-end-line="51" selection-end-column="101" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/threadpool/InitValueInThreadLocal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="591">
+              <caret line="54" column="5" lean-forward="true" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/threadlocalproblem/DirtyDataInThreadLocal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="38" column="32" selection-start-line="38" selection-start-column="32" selection-end-line="38" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/threadlocalproblem/OutOfMemoryThreadLocal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="273">
+              <caret line="27" column="2" selection-start-line="27" selection-start-column="2" selection-end-line="27" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/threadlocalproblem/SolveThreadLocal.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="252">
-              <caret line="26" column="34" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
+              <caret line="26" column="41" selection-start-line="26" selection-start-column="41" selection-end-line="26" selection-end-column="41" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/common/Cat.java">
+        <entry file="file://$PROJECT_DIR$/src/threadpool/UserRejectHandler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+            <state relative-caret-position="378">
+              <caret line="32" column="66" selection-start-line="32" selection-start-column="66" selection-end-line="32" selection-end-column="66" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/common/Garfield.java">
+        <entry file="file://$PROJECT_DIR$/src/threadpool/UserThreadPool.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="26" column="33" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://D:/jdk1.8.0/src.zip!/com/sun/org/apache/xpath/internal/operations/String.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+            <state relative-caret-position="507">
+              <caret line="89" column="29" selection-start-line="89" selection-start-column="29" selection-end-line="89" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -145,6 +158,15 @@
         <option value="$PROJECT_DIR$/src/concurrent/VolatileNotAtomic.java" />
         <option value="$PROJECT_DIR$/src/concurrent/SemaphoreExample.java" />
         <option value="$PROJECT_DIR$/src/concurrent/CountDownLatchTest.java" />
+        <option value="$PROJECT_DIR$/src/threadpool/UserThreadFactory.java" />
+        <option value="$PROJECT_DIR$/src/threadpool/UserRejectHandler.java" />
+        <option value="$PROJECT_DIR$/src/threadpool/UserThreadPool.java" />
+        <option value="$PROJECT_DIR$/src/reference/SoftReferenceHouse.java" />
+        <option value="$PROJECT_DIR$/src/threadpool/CsGameByThreadLocal.java" />
+        <option value="$PROJECT_DIR$/src/threadpool/InitValueInThreadLocal.java" />
+        <option value="$PROJECT_DIR$/src/threadlocalproblem/DirtyDataInThreadLocal.java" />
+        <option value="$PROJECT_DIR$/src/threadlocalproblem/OutOfMemoryThreadLocal.java" />
+        <option value="$PROJECT_DIR$/src/threadlocalproblem/SolveThreadLocal.java" />
       </list>
     </option>
   </component>
@@ -161,6 +183,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -216,11 +239,35 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="oob" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="JavaBasicExample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaBasicExample" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="reference" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaBasicExample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaBasicExample" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="threadlocalproblem" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaBasicExample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaBasicExample" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="threadpool" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaBasicExample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaBasicExample" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="threadpool" type="462c0819:PsiDirectoryNode" />
+              <item name="UserThreadFactory.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -243,13 +290,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SemaphoreExample">
-    <configuration name="ArrayListFailFast" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.ArrayListFailFast" />
+  <component name="RunManager" selected="Application.DirtyDataInThreadLocal">
+    <configuration name="CsGameByThreadLocal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="threadpool.CsGameByThreadLocal" />
       <module name="JavaBasicExample" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collection.*" />
+          <option name="PATTERN" value="threadpool.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -257,12 +304,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CountDownLatchTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="concurrent.CountDownLatchTest" />
+    <configuration name="DirtyDataInThreadLocal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="threadlocalproblem.DirtyDataInThreadLocal" />
       <module name="JavaBasicExample" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="concurrent.*" />
+          <option name="PATTERN" value="threadlocalproblem.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -270,12 +317,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SemaphoreExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="concurrent.SemaphoreExample" />
+    <configuration name="InitValueInThreadLocal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="threadpool.InitValueInThreadLocal" />
       <module name="JavaBasicExample" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="concurrent.*" />
+          <option name="PATTERN" value="threadpool.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -283,12 +330,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SubListFailFast" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.SubListFailFast" />
+    <configuration name="SoftReferenceHouse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reference.SoftReferenceHouse" />
       <module name="JavaBasicExample" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collection.*" />
+          <option name="PATTERN" value="reference.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -296,12 +343,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VolatileNotAtomic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="concurrent.VolatileNotAtomic" />
+    <configuration name="UserThreadPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="threadpool.UserThreadPool" />
       <module name="JavaBasicExample" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="concurrent.*" />
+          <option name="PATTERN" value="threadpool.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -310,19 +357,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.SubListFailFast" />
-      <item itemvalue="Application.ArrayListFailFast" />
-      <item itemvalue="Application.VolatileNotAtomic" />
-      <item itemvalue="Application.CountDownLatchTest" />
-      <item itemvalue="Application.SemaphoreExample" />
+      <item itemvalue="Application.UserThreadPool" />
+      <item itemvalue="Application.SoftReferenceHouse" />
+      <item itemvalue="Application.CsGameByThreadLocal" />
+      <item itemvalue="Application.InitValueInThreadLocal" />
+      <item itemvalue="Application.DirtyDataInThreadLocal" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SemaphoreExample" />
-        <item itemvalue="Application.CountDownLatchTest" />
-        <item itemvalue="Application.VolatileNotAtomic" />
-        <item itemvalue="Application.ArrayListFailFast" />
-        <item itemvalue="Application.SubListFailFast" />
+        <item itemvalue="Application.DirtyDataInThreadLocal" />
+        <item itemvalue="Application.InitValueInThreadLocal" />
+        <item itemvalue="Application.CsGameByThreadLocal" />
+        <item itemvalue="Application.SoftReferenceHouse" />
+        <item itemvalue="Application.UserThreadPool" />
       </list>
     </recent_temporary>
   </component>
@@ -342,16 +389,18 @@
       <workItem from="1560904956566" duration="3002000" />
       <workItem from="1560928155074" duration="71000" />
       <workItem from="1560928336679" duration="3306000" />
+      <workItem from="1560992500932" duration="7423000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30123000" />
+    <option name="totallyTimeSpent" value="37546000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1296" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13066667" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Learn" order="3" />
@@ -397,7 +446,7 @@
       <window_info anchor="right" id="TalkingData Jira" order="10" side_tool="true" />
       <window_info anchor="right" id="Palette&#9;" order="11" />
       <window_info anchor="right" id="JRebel Setup Guide" order="12" weight="0.21066667" />
-      <window_info anchor="right" id="PlantUML" order="13" />
+      <window_info anchor="right" id="PlantUML" order="13" weight="0.3296" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -522,10 +571,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://D:/jdk1.8.0/src.zip!/java/util/concurrent/atomic/LongAdder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2616">
+          <caret line="69" column="13" selection-start-line="69" selection-start-column="13" selection-end-line="69" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/collection/SubListFailFast.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="546">
           <caret line="40" column="75" selection-start-line="40" selection-start-column="75" selection-end-line="40" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collection/ArrayListFailFast.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1113">
+          <caret line="67" column="40" selection-start-line="67" selection-start-column="40" selection-end-line="67" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/concurrent/SynchronizedExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="28" column="36" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/concurrent/VolatileNotAtomic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/concurrent/SemaphoreExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="35" column="58" selection-start-line="35" selection-start-column="58" selection-end-line="35" selection-end-column="58" />
         </state>
       </provider>
     </entry>
@@ -557,45 +641,86 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/collection/ArrayListFailFast.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="678">
-          <caret line="67" column="40" selection-start-line="67" selection-start-column="40" selection-end-line="67" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/concurrent/SynchronizedExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="28" column="36" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/jdk1.8.0/src.zip!/java/util/concurrent/atomic/LongAdder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2616">
-          <caret line="69" column="13" selection-start-line="69" selection-start-column="13" selection-end-line="69" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/concurrent/VolatileNotAtomic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="591">
-          <caret line="46" selection-start-line="46" selection-end-line="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/concurrent/SemaphoreExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="35" column="58" selection-start-line="35" selection-start-column="58" selection-end-line="35" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/concurrent/CountDownLatchTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
+        <state relative-caret-position="-165">
           <caret line="32" column="45" selection-start-line="32" selection-start-column="45" selection-end-line="32" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk1.8.0/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7712">
+          <caret line="140" column="6" selection-start-line="140" selection-start-column="6" selection-end-line="140" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/threadpool/UserRejectHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="32" column="66" selection-start-line="32" selection-start-column="66" selection-end-line="32" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/threadpool/UserThreadPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="507">
+          <caret line="89" column="29" selection-start-line="89" selection-start-column="29" selection-end-line="89" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/threadpool/UserThreadFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="103" column="56" selection-start-line="103" selection-start-column="56" selection-end-line="103" selection-end-column="56" />
+          <folding>
+            <element signature="e#1108#1109#0" expanded="true" />
+            <element signature="e#1142#1143#0" expanded="true" />
+            <element signature="e#1541#1542#0" expanded="true" />
+            <element signature="e#1568#1569#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reference/SoftReferenceHouse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/threadpool/CsGameByThreadLocal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="51" column="101" selection-start-line="51" selection-start-column="101" selection-end-line="51" selection-end-column="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/threadpool/InitValueInThreadLocal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="591">
+          <caret line="54" column="5" lean-forward="true" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/threadlocalproblem/DirtyDataInThreadLocal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="38" column="32" selection-start-line="38" selection-start-column="32" selection-end-line="38" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/threadlocalproblem/OutOfMemoryThreadLocal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="27" column="2" selection-start-line="27" selection-start-column="2" selection-end-line="27" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/threadlocalproblem/SolveThreadLocal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="26" column="41" selection-start-line="26" selection-start-column="41" selection-end-line="26" selection-end-column="41" />
         </state>
       </provider>
     </entry>
